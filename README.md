@@ -8,7 +8,7 @@
 
 </div>
 
----
+--- 
 
 # 🌟 What is Branch Merging?
 
