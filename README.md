@@ -2,6 +2,7 @@
      
 <div align="center">  
 
+
 ![Git Branching](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
  
 ### ⚡ Professional Git Branching & Merging Guide
