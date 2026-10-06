@@ -212,6 +212,6 @@ git merge feature-auth
 
 # ⭐ Happy Coding ⭐
 
-### Built with ❤️ using Git & GitHub by GD Team PVT.LTD
+### Built with ❤️ using Git & GitHub by Gurman Singh
 
 </div>
