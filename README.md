@@ -1,4 +1,4 @@
-# 🚀 Git Branch Merging Workflo
+# 🚀 Git Branch Merging Workflow
      
 <div align="center">  
 
